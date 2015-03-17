@@ -1,3 +1,4 @@
+### Tidy Fox Development ###
 ![The tidy fox logo](http://www.tidyfoxdev.com/assets/blue-tidy-fox-on-all-fours.png)
 
 [ADDRESS]
